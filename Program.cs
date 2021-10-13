@@ -44,6 +44,7 @@ namespace Litres_7_II_13_Поменять_местами_первый_миним
             a[indexOfMin] = c;
             Console.WriteLine("Изменённый массив: ");
             Print(a);
+            Console.WriteLine("The End");
         }
     }
 }
