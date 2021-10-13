@@ -46,6 +46,11 @@ namespace Litres_7_II_13_Поменять_местами_первый_миним
             Console.WriteLine("Изменённый массив: ");
             Print(a);
             Console.WriteLine("The End");
+
+            static void task1()
+            {
+                int[] a = { 1, -5, -1, 4, 5, 4, 7, 9, 3, 2, 5, 4, 5 };
+            }
         }
     }
 }
