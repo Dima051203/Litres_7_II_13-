@@ -15,6 +15,7 @@ namespace Litres_7_II_13_Поменять_местами_первый_миним
         static void Main(string[] args)
         {
             int[] a = { 1, -5, -1, 4, 5, 4, 7, 9, 3, 2, 5, 4};
+            int sobaka;
             int max = a[0];
             int indexOfMax = 0;
             for(int i = 1; i < a.Length; i++)
