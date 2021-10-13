@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Litres_7_II_13(Поменять местами первый минимальный и последний максимальный элементы)", "Litres_7_II_13(Поменять местами первый минимальный и последний максимальный элементы).csproj", "{7AF28260-ADB5-494F-8373-7C5A8FC577ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AF28260-ADB5-494F-8373-7C5A8FC577ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AF28260-ADB5-494F-8373-7C5A8FC577ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AF28260-ADB5-494F-8373-7C5A8FC577ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AF28260-ADB5-494F-8373-7C5A8FC577ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD8D462C-CE4C-4E09-962A-CFAA17195135}
+	EndGlobalSection
+EndGlobal
